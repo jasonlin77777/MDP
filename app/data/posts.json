@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1760998239713,
+    "title": "ed sheeran ",
+    "content": "紅髮艾德的歌好聽",
+    "category": "英文歌",
+    "user": {
+      "id": 1,
+      "email": "jasonlin77777@gmail.com",
+      "password": "77777jasonlin",
+      "name": "林允勝"
+    },
+    "createdAt": "2025-10-20T22:10:39.713Z",
+    "comments": [
+      {
+        "id": 1760998855389,
+        "user": {
+          "id": 1,
+          "email": "jasonlin77777@gmail.com",
+          "password": "77777jasonlin",
+          "name": "林允勝"
+        },
+        "content": "超讚",
+        "createdAt": "2025-10-20T22:20:55.390Z"
+      }
+    ]
+  }
+]
